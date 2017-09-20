@@ -1,0 +1,152 @@
+*{
+  padding: 0;
+  margin: 0;
+
+}
+body{
+background-image: url("css/grfx/bg.png");
+background-repeat: repeat-x;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+#section{
+margin: 0 auto;
+
+width: 800px;
+background-color: white;
+}
+
+#header{
+  margin: auto;
+  width: 800px  ;
+}
+
+#h1-vloot{ margin-left: 20px;}
+
+
+#vloot1{
+
+float: left;
+margin: 15px;
+margin-left: 0px;
+margin-top: 3px;
+}
+
+
+#text{
+z-index: 100;
+position: absolute;
+top: 200px;
+margin: 20px;
+}
+a:link {
+ color: white;
+ text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{ color: #89cff0;}
+
+
+.textr{margin-left: 20px;}
+
+#header{
+background-image: url("css/grfx/header.jpg");
+align-content: center;
+height: 268px;
+background-repeat: no-repeat;
+
+}
+
+#sectiontekst{
+  z-index: auto;
+  position: absolute;
+  top: 2px;
+  alignment: center;
+}
+
+h2{
+margin-left: 22px;
+padding-top: 10px;
+}
+
+#tekst-van-image{
+margin: 20px;
+width: 770px;
+margin-right: 20px;
+}
+
+ h1{margin-left: 20px;}
+
+ #vloot2{
+float: right;
+margin: 15px;
+margin-left: 20px;
+ }
+
+#vloot3{float: left;
+
+margin-right: 20px;
+margin-top: 20px;
+}
+#pargraaf{ margin-left: 20px;}
+
+#vloot4{ float: left; margin-right: 20px; margin-bottom: 20px;}
+#vloot11{ float: left; margin-bottom: 20px;margin-right: 20px;}
+
+#vloot0{ float: left; margin-right: 20px;}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+#vloot12{ float: right; margin: 20px;}
+
+#paragraaf2{ margin-left: 20px;  width: 800px;}
+#p3{margin-left: 22px;}
+
+#id{ float: right; margin-left: 20px; margin-right: 20px; margin-bottom: 20px;}
+
+#p4{margin: 22px;}
+
+#p5{margin: 20px;}
+
+#vloot6{float: left; margin-right: 20px; margin-top: 20px;}
+#vloot7{float: left; margin: 20px; margin-left: 0px;}
+
+#vloot8{
+
+float: left;
+margin: 15px;
+margin-left: 0px;
+margin-top: 3px;
+}
+
+#vloot9{
+float: right;
+margin: 15px;
+margin-left: 20px;
+margin-right: 0px;
+}
+
+#vloot10{float: left;
+
+margin-right: 20px;
+margin-top: 20px;
+}
